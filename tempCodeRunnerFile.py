@@ -1,0 +1,3 @@
+
+BLOCK_SIZE = 30
+GRID_WIDTH = 10
